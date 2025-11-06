@@ -1,0 +1,20 @@
+[11:36:31] СИСТЕМА:
+Завантаження моделі...
+
+[11:36:33] СИСТЕМА:
+Модель завантажена! Готовий до роботи.
+
+[11:37:27] ВИ:
+User: Hello!\nBot:
+
+[11:37:30] GPT-2:
+I'm from Seattle, USA. \r
+C:\Program Files (x86)\Steam Workshop 1 - All Users and Objects \\Documents\\My Games/Warhammer 40k Ultimate Edition\" ; http://www-downloadsourceforge247242530 . [2345] DEBUG ] :: Client is listening on port 8080 : { "socket" => 70000 , "-XenialDipAddress"=> ",11347587000", "port_name":"320000
+
+[11:37:54] ВИ:
+"Traveler: Greetings, stranger. I haven't seen your face before. What brings
+you to these lands? Player:
+
+[11:37:58] GPT-2:
+It's the people that call themselves "Havocs." These are a group of refugees who have come from all over North America and many parts beyond; they're not just traveling in search for food or clothing but also exploring new worlds where there is no one around them anymore… But then again you don' know if it'll work out! Travelers look back at what came after those first two centuries by seeing how their actions changed forever... The land isn`t safe now either - we
+
